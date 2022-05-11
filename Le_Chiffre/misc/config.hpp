@@ -6,10 +6,10 @@
 
 namespace {
 	// Config
-	const ::std::string CHEAT_VERSION = XorStr("v1.4.23");
-	const ::std::string RELEASE_DATE = XorStr("[11 May, 2022]");
+	const ::std::string CHEAT_VERSION = XorStr("v1.4.22");
+	const ::std::string RELEASE_DATE = XorStr("[6 May, 2022]");
 	const wchar_t* HOST = L"api.github.com";
-	const wchar_t* PATH = L"/repos/blaumaus/le_chiffre/tags?per_page=1";
+	const wchar_t* PATH = L"/repos/MTMHA/CS-EX-/tags?per_page=1";
 	const wchar_t* TARGET = L"csgo.exe";
 	const wchar_t* CLIENT_DLL = L"client.dll";
 	const wchar_t* ENGINE_DLL = L"engine.dll";
